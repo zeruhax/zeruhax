@@ -18,4 +18,5 @@ const bioData : Biodata = {
 
 console.log(bioData)
 ```
+<img align='left' src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeruhax&theme=nord_dark' width='280px'>
 <img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeruhax&theme=nord_dark' width='555px'> 
