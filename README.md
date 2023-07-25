@@ -8,7 +8,7 @@ interface Biodata {
 
 const bioData : Biodata = {
     name : "Zeru",
-    languages : ["C++","C#","Golang","Python","Php","Javascript","Typescript","Node.js"],
+    languages : ["C++","C#","Golang","Python","Php","Javascript","Typescript","Node.js","Rust"],
     techStack : {
         framework : ["Express.js","Fiber","Gin Gonic","Laravel","Next.js","Django","Flask"],
         library : ["React.js","Redux"],
