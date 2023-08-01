@@ -18,5 +18,5 @@ const bioData : Biodata = {
 
 console.log(bioData)
 ```
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=zeruhax&layout=compact&langs_count=10&theme=nord_dark' width='250px'>
-<img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeruhax&theme=nord_dark' width='555px'> 
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs?username=zeruhax&layout=compact&langs_count=10' width='250px'>
+<img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeruhax' width='555px'> 
